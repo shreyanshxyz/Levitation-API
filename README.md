@@ -2,6 +2,10 @@
 
 This documentation provides a guide on setting up, running, and deploying the Blogging Platform API. The API is built using Node.js and Express, with MongoDB as the database. It includes user authentication using JWT, CRUD operations for blog posts, and security measures such as input validation, and rate limiting.
 
+## Hosted Url
+
+The App is hosted on Cyclic and can be accessed through the url: https://tame-teal-elephant-sari.cyclic.app/
+
 ## Table of Contents
 
 1. [Requirements](#requirements)
